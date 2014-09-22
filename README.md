@@ -1,4 +1,5 @@
 # NAME
+[![Gitter](http://localhost:4000/Join Chat.svg)](http://localhost:5000/trevorah/noembed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Noembed - extendable oEmbed gateway
 
